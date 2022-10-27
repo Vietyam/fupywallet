@@ -30,6 +30,8 @@ Most of the code here is forked from:
 - Steven Buss's `Bitmerchant <https://github.com/sbuss/bitmerchant>`_ (original)
 - BlockIo's `multimerchant-python <https://github.com/BlockIo/multimerchant-python>`_ (fork of Bitmerchant)
 - Michail Brynard's `Ethereum BIP44 Python <https://github.com/michailbrynard/ethereum-bip44-python>`_
+- Ran Aroussi's `PyWallet <https://github.com/ranaroussi/pywallet>`_
+
 
 I simply added support for a few more cryptocurrencies (BCH, BTG, DASH), as well as created
 methods to simplify the creation of HD wallets and child wallets.
