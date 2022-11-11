@@ -1,5 +1,5 @@
 
-FyPyWallet
+FyWallet
 ===========
 
 .. image:: https://img.shields.io/pypi/pyversions/pywallet.svg?maxAge=60
